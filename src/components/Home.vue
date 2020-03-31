@@ -4,7 +4,7 @@
     <p>Help us develop our landing page!</p>
     <a href="https://github.com/set-traces/set-traces-landing">Read more here</a>
     <h3>Want to contribute to our product? Read more about our product here:</h3>
-    <a href="https://github.com/set-traces/set-traces-frontend/wiki">Script writing product for Abakusrevyen</a>
+    <a href="https://github.com/set-traces/set-traces-frontend/wiki">Script writing tool for Abakusrevyen</a>
     <p style='margin: 4em'>
     </p>
     <p>
