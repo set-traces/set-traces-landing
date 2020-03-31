@@ -5,6 +5,9 @@
     <a href="https://github.com/set-traces/set-traces-landing">Read more here</a>
     <h3>Want to contribute to our product? Read more about our product here:</h3>
     <a href="https://github.com/set-traces/set-traces-frontend/wiki">Script writing tool for Abakusrevyen</a>
+    <p> 
+      Need some more memes in your life? Check out this <a href="memes.settraces.com">page</a> (Remember to refresh 😉)
+    </p>
     <p style='margin: 4em'>
     </p>
     <p>
