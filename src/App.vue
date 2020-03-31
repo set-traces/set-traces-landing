@@ -12,7 +12,8 @@ export default {
   name: 'App',
   components: {
     Home
-  }
+  },
+  title: "Hey",
 }
 </script>
 
